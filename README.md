@@ -1,5 +1,4 @@
-### Setareh Nouri
-### A01308077
+### Setareh Nouri - A01308077
 
 # Assignment 3
 
